@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ravi Damor!
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sujansinh Thakor!
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <a href="https://www.linkedin.com/in/sujansinh-thakor-1bb3a5205/">
@@ -11,7 +11,7 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br>
-Here are some ideas to get you started:
+
 ## ME:
 
 - 🔭 I’m currently Pursuing B.Tech in Computer Science at VIT Bhopal
