@@ -8,7 +8,7 @@
   <img align="left" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<a href="mailto:sdthakor.8485@gmail.com",href="https://ibb.co/0rgvY1H"><img align="left" width="26px" src="https://i.ibb.co/pdt54NY/Gmail-logo.png" alt="Gmail-logo" border="0"></a>
+<a href="mailto:sdthakor.8485@gmail.com"><img align="left" width="26px" src="https://i.ibb.co/pdt54NY/Gmail-logo.png" alt="Gmail-logo" border="0"></a>
 <br>
 
 ## ME:
