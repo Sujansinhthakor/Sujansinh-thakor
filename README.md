@@ -1,7 +1,6 @@
-### Hi  👋,I'm Sujansinh Thakor
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ravi Damor!
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**Sujansinh-thakor/Sujansinh-thakor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a href="https://www.linkedin.com/in/sujansinh-thakor-1bb3a5205/">
   <img align="left" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"  />
 </a>
@@ -18,12 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently Pursuing B.Tech in Computer Science at VIT Bhopal
 - 🌱 I’m currently learning Data Structure and Algorithm in Java
 - 👯 I’m looking to Contribute more in Open source Communities.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
