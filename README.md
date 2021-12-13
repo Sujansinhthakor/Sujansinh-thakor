@@ -32,3 +32,7 @@
 
 <img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=Sujansinh-thakor" />
 
+## 𝗦𝘁𝗮𝘁𝘀
+
+![Sujansinh Thakor's github stats](https://github-readme-stats.vercel.app/api?username=Sujansinh-thakor&show_icons=true&theme=dracula)
+
