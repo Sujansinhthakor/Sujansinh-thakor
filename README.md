@@ -29,14 +29,11 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <hr>
 <p>
-<img width='400' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujansinh-thakor&layout=compact" /> &emsp; <img width='400' src="https://github-readme-stats.vercel.app/api?username=Sujansinh-thakor&show_icons=true&theme=dracula" />
+<img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=Sujansinh-thakor" /> &emsp; <img width='400' src="https://github-readme-stats.vercel.app/api?username=Sujansinh-thakor&show_icons=true&theme=dracula" />
 </p>
-<img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=Sujansinh-thakor" />
+
 <hr>
-<p align="center">
-<a href="https://github.com/ravithemore/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=Sujansinh-thakor&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
+
 </p>
 
 
