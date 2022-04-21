@@ -13,7 +13,6 @@
 
 ## ME:
 
-- 🔭 I’m currently Pursuing B.Tech in Computer Science at VIT Bhopal
 - 🌱 I’m currently learning Data Structure and Algorithm in Java
 - 👯 I’m looking to Contribute more in Open source Communities.
 
