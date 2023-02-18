@@ -13,7 +13,7 @@
 
 ## ME:
 
-- 🌱 I’m currently Flutter.
+- 🌱 I’m currently Learning Flutter.
 - 👯 I’m looking to Contribute more in Open source Communities.
 
 **languages and tools:**  
